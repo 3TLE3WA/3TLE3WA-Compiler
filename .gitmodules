@@ -1,0 +1,7 @@
+[submodule "compiler2022"]
+	path = compiler2022
+	url = https://gitlab.eduxiji.net/nscscc/compiler2022.git
+
+[submodule "compiler2023"]
+	path = compiler2023
+	url = https://gitlab.eduxiji.net/nscscc/compiler2023.git

@@ -1,0 +1,28 @@
+.vscode/
+.idea/
+.cache/
+.DS_Store
+
+build/
+
+# 用于引用第三方库
+ext/
+
+*.json
+
+src/antlr/*
+!src/antlr/*.g4
+!src/antlr/*.h
+!src/antlr/*.cpp
+
+# 调试文件
+*.dump
+*.ll
+*.s
+*.S
+*.in
+*.out
+*.log
+*.sy
+*.data
+*.old
